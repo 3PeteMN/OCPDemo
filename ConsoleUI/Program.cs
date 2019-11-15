@@ -28,11 +28,10 @@ namespace ConsoleUI
 
             foreach (var emp in employees)
             {
-                Console.WriteLine($"{ emp.FirstName } { emp.LastName }: { emp.EmailAddress } IsManager: { emp.IsManager } IsExecutive: { emp.IsExecutive }");
+                Console.WriteLine($"{ emp.FirstName } { emp.LastName }: { emp.EmailAddress }: IsManager{emp.IsManager}");
             }
 
             Console.ReadLine();
-
         }
     }
 }

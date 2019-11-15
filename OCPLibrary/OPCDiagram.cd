@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="OCPLibrary.Accounts" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Accounts\Accounts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OCPLibrary.ExecutiveAccounts" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Accounts\ExecutiveAccounts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OCPLibrary.ManagerAccounts" BaseTypeListCollapsed="true">
+    <Position X="2" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Accounts\ManagerAccounts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OCPLibrary.ExecutiveModel" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Applicants\ExecutiveModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OCPLibrary.ManagerModel" BaseTypeListCollapsed="true">
+    <Position X="9.75" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Applicants\ManagerModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OCPLibrary.PersonModel" BaseTypeListCollapsed="true">
+    <Position X="8" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Applicants\PersonModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OCPLibrary.TechnicianModel" BaseTypeListCollapsed="true">
+    <Position X="7" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Applicants\TechnicianModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="OCPLibrary.IAccounts">
+    <Position X="3.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Accounts\IAccounts.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OCPLibrary.IApplicantModel">
+    <Position X="7.25" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Applicants\IApplicantModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
